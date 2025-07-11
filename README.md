@@ -14,8 +14,8 @@ A simple and elegant web-based To-Do List application to manage your daily tasks
 
 ## 📸 Screenshot
 
-(.<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1000ec7-9f19-47ac-b653-f4fed0f819bf" />
-)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1000ec7-9f19-47ac-b653-f4fed0f819bf" />
+
 
 ## 🛠️ Tech Stack
 
