@@ -14,7 +14,8 @@ A simple and elegant web-based To-Do List application to manage your daily tasks
 
 ## 📸 Screenshot
 
-![To-Do List Screenshot](./images/screenshot.png) <!-- Rename your uploaded image to `screenshot.png` or update this path -->
+![To-Do List Screenshot](.<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1000ec7-9f19-47ac-b653-f4fed0f819bf" />
+)
 
 ## 🛠️ Tech Stack
 
@@ -23,5 +24,9 @@ A simple and elegant web-based To-Do List application to manage your daily tasks
 - JavaScript (Vanilla)
 - Local Storage API
 
-## 📂 Project Structure
+## 🧪 How to Use
 
+1. Clone or download the project folder.
+2. Ensure all the required images (`icon.png`, `checked.png`, `unchecked.png`) are inside the `images/` folder.
+3. Open `index.html` in any browser.
+4. Start adding your tasks and stay productive!
