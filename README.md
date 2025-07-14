@@ -6,11 +6,11 @@ A simple and elegant web-based To-Do List application to manage your daily tasks
 
 ## Features
 
-- Add new tasks
-- Delete tasks
-- Mark tasks as complete/incomplete
-- Saves tasks locally (persists even after page refresh)
-- Responsive design for mobile and desktop
+- Add new tasks.
+- Delete tasks.
+- Mark tasks as complete/incomplete.
+- Saves tasks locally. (persists even after page refresh)
+- Responsive design for mobile and desktop.
 
 ## Screenshot
 
